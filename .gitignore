@@ -1,0 +1,8 @@
+work/
+node_modules/
+.env*
+*.tar.gz
+*.zip
+
+__pycache__/
+*.pyc
